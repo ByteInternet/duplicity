@@ -1,3 +1,12 @@
+duplicity (0.6.23-byte20160902.1) precise; urgency=low
+
+  * backport infrequent access storage class from 0.7.06 to 0.6.23
+      
+    upstream patch can be found here:
+    https://code.launchpad.net/~mnjul/duplicity/s3-infreq-access/+merge/274037/+preview-diff/664709/+files/preview.diff
+
+ -- Daniel Genis <daniel@byte.nl>  Fri, 15 Nov 2013 21:55:21 -0500
+
 duplicity (0.6.23) precise; urgency=low
 
   * Initial duplicity build
