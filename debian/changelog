@@ -1,5 +1,5 @@
-duplicity (0) UNRELEASED; urgency=low
+duplicity (0.6.23) precise; urgency=low
 
-  * Testing (just a dummy changelog, will be replaced by daily build scripts)
+  * Initial duplicity build
 
- -- Michael Terry <mterry@ubuntu.com>  Fri, 15 Nov 2013 21:55:21 -0500
+ -- Daniel Genis <daniel@byte.nl>  Fri, 15 Nov 2013 21:55:21 -0500
