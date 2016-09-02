@@ -7,9 +7,6 @@ UPSTREAM_VERSION=$(shell dpkg-parsechangelog | grep ^Version: | cut -d' ' -f2 | 
 %:
 	dh $@ --with python2
 
-override_dh_auto_test:
-	./setup.py test
-
 override_dh_auto_install:
 	dh_auto_install
 	
