@@ -1,3 +1,12 @@
+duplicity (0.6.23hypernode20200402.1) buster; urgency=medium
+
+  [ Erik Lamers ]
+  * Add rename deb to byte branch
+  * Higher debhelper version
+  * higher compat version
+
+ -- Erik Lamers <root@staging-24c66784-2020-03-27-15-22-34-jenkinsslave2.sweetflamingo.hypernode.io>  Thu, 02 Apr 2020 13:58:49 +0000
+
 duplicity (0.6.23-byte20160902.1) precise; urgency=low
 
   * backport infrequent access storage class from 0.7.06 to 0.6.23
